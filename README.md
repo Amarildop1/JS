@@ -1,2 +1,2 @@
-# JS
-Estudos
+### Repositório de estudos sobre NodeJS
+
