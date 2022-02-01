@@ -1,4 +1,4 @@
-#### Repositório de estudos sobre NodeJS
+#### NodeJS
 
 > Aprendendo sobre as rotas
 > Criação de Models
