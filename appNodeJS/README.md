@@ -1,5 +1,7 @@
-#### Repositório de estudos sobre NodeJS
+#### NodeJS
 
-> Aprendendo sobre as rotas
-> Criação de Models
-> Utilização do Sequelize
+> Aprendendo sobre as rotas.
+
+> Criação de Models.
+
+>Utilização do Sequelize.
